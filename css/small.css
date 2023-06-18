@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: "lato", sans-serif;
+  font-family: 'lato', sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.5;
@@ -222,7 +222,7 @@ header {
 }
 
 .container {
-  margin-top: 370px;
+  margin-top: 390px;
 }
 
 .container h1 {
